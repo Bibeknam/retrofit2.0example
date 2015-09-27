@@ -1,0 +1,27 @@
+{
+  "name": "RetrofitRESTApi",
+  "version": "1.0.0",
+  "description": "Rest API endpoint for android application that uses Retrofit 2.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bibeknam/retrofit2.0example"
+  },
+  "keywords": [
+    "Retrofit2.0"
+  ],
+  "author": "Bibek Subedi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bibeknam/retrofit2.0example/issues"
+  },
+  "homepage": "https://github.com/Bibeknam/retrofit2.0example",
+  "dependencies": {
+    "express": "^4.13.3",
+    "mongoose": "~3.6.13",
+    "body-parser": "~1.0.1"
+  }
+}
